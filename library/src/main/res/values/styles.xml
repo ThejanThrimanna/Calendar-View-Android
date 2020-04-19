@@ -8,7 +8,7 @@
     </style>
 
     <style name="RobotoCalendarMonthText">
-        <item name="fontPath">fonts/OverrideThisWithYourFontPath</item>
+        <item name="fontPath">fonts/Cabin-Bold</item>
         <item name="android:textSize">@dimen/roboto_calendar_month_font</item>
         <item name="android:textColor">@color/roboto_calendar_month_font</item>
     </style>
